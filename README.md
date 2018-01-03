@@ -1,7 +1,6 @@
 # Basic Matrix Operations
 
-The following matrix operations package was developed for use in a university scientific computing class. The package was developed to provide
-functionality for creating matrix objects of any dimension and performing common matrix operations upon them.
+The following matrix operations package was developed for use in a university scientific computing class. The package was developed to provide functionality for creating matrix objects of any dimension and performing common matrix operations upon them. The culminating effort of this project was a naive Baye's classification function which allows fast and accurate classification of data sets in any dimension. Additionaly the project provides the ability to calculate eigen-values and eigen-vectors and the characteristic polynomial of high-degree polynomials.
 
 ## Getting Started
 
@@ -10,12 +9,6 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 Python v 3.4 or higher.
-
-```
-Give examples
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
@@ -29,24 +22,11 @@ Explain what these tests test and why
 Give an example
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Authors
 
 * **Bobby Palmer** - *Sole Contributor* - [of20thmaine](https://github.com/of20thmaine)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Special thanks to UNCW Professor Gene Tagliarini whose excellent instruction made this project possible.
