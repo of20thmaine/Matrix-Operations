@@ -11,7 +11,7 @@ When an illegal operation is attempted by the user the functions within raise ex
 """
 import copy
 import math
-from matrix.matrix import *
+from matrix import *
 
 
 def scale(matrix, scalar):
